@@ -1,4 +1,2 @@
-python -m Orange.canvas
+python3 -m Orange.canvas
 
-source /home/javastral/My-venvs/ml_py/bin/activate
-eded
